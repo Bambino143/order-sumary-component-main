@@ -98,6 +98,10 @@ p {
   display: block;
 }
 
+h2 {
+  font-size: 14px;
+}
+
 @media screen and (max-width: 375px) {
 
   body {
